@@ -1,0 +1,14 @@
+name: camod
+displayName: "Quantum Realm Mod"
+subtitle: "Rebrand, and Revival! | v5"
+description: "Huge content mod specifically made for RPs. 
+Official mod of The Quantum Realm.
+
+Version v5"
+author: "Adrift, Me
+T4SC, alot, alot of things"
+repo: "GMugXD/qw-mod"
+minGameVersion: 143
+version: 5
+hideBrowser: false
+hidden: true
