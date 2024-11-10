@@ -1,5 +1,5 @@
 {    
-    "type": "MemoryCell",
+    "type": "MemoryBlock",
     "name": "Memory Cell II",
     "health": 600,
     "size": 1,
