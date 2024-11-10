@@ -1,6 +1,6 @@
 {    
     "type": "MemoryBlock",
-    "name": "Memory Cell II",
+    "name": "Invis Cell",
     "health": 600,
     "size": 1,
     "memoryCapacity": 2048,
