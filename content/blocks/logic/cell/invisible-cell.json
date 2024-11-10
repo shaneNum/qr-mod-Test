@@ -1,0 +1,13 @@
+{    
+    "type": "MemoryCell",
+    "name": "Memory Cell II",
+    "health": 600,
+    "size": 1,
+    "memoryCapacity": 2048,
+    "alwaysUnlocked": true,
+    "requirements": [],
+    "category": "logic",
+    "research": {
+    
+    }
+}
