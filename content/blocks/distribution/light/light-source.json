@@ -1,5 +1,5 @@
 {    
-    "type": "Unloader",
+    "type": "Sorter",
     "name": "Light Item Source",
     "health": 600,
     "size": 1,
