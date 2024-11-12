@@ -1,0 +1,12 @@
+{    
+    "type": "Unloader",
+    "name": "Light Item Source",
+    "health": 600,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [],
+    "category": "distribution",
+    "research": {
+    
+    }
+}
