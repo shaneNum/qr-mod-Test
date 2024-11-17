@@ -1,10 +1,10 @@
 name: camod
 displayName: "Quantum Realm Mod"
-subtitle: "1.5x the content... | v5"
+subtitle: "1.5x the content... | v5.0.1"
 description: "Huge content mod specifically made for RPs. 
 Official mod of The Quantum Realm.
 
-Version v5
+Version v5.0.1
 
 Credits:
 Adrift, Main Dev
@@ -19,7 +19,7 @@ Ultar, Minor Contributor"
 author: "Adrift"
 repo: "GMugXD/qw-mod"
 minGameVersion: 143
-version: 5
+version: 5.0.1
 hideBrowser: false
 hidden: true
 dependecies: [
