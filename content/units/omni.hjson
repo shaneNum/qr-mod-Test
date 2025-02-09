@@ -34,7 +34,7 @@ drawCell: false
 parts: [
   {
     type: RegionPart
-    name: starfall-shield
+    name: camod-shield
     outline: false
     blending: additive
     color: 0050ff
@@ -61,7 +61,7 @@ weapons: [
     mirror: true
     alternate: true
     rotate: false
-    shootSound: laser4
+    shootSound: laser
     reload: 20
     recoil: 0.9
     shootCone: 360
@@ -143,7 +143,7 @@ weapons: [
     mirror: true
     alternate: true
     rotate: false
-    shootSound: laser4
+    shootSound: laser
     reload: 20
     recoil: 0.9
     shootCone: 360
@@ -234,7 +234,7 @@ weapons: [
        -23.5, -7.5, 90
        23.5, 7.5, -90
      ]
-			shots: 4
+			shots: 8
 			shotDelay: 12
 	  }
     shootCone: 45
