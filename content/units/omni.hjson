@@ -223,7 +223,7 @@ weapons: [
     y: 0 
     layer: 2 
     layerOffset: 2
-    mirror: true
+    mirror: false
     alternate: false
     rotate: false
     shootSound: artillery
